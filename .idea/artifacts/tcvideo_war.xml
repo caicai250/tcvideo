@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tcvideo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tcvideo.war">
+      <element id="artifact" artifact-name="tcvideo:war exploded" />
+    </root>
+  </artifact>
+</component>
