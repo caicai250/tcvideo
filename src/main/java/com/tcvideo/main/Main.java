@@ -1,4 +1,4 @@
-package com.tcvideo.mian;
+package com.tcvideo.main;
 
 /**
  * Created by caiteng on 2017-11-06.
